@@ -2,3 +2,4 @@
 "# PakoCoin" 
 "# PakoCoin" 
 "# PakoCoin" 
+"PakoCoin パー子コイン　" 
