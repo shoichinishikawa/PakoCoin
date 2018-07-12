@@ -1,5 +1,5 @@
 "# PakoCoin" 
+"PAKO COIN は　日本のパー子会公式コインです" 
+"パー子会は仮想通貨コミュニティーです　また仮想通貨の枠を超え　社会貢献の役割を持つコミュニティーコインとしての側面も持っております" 
 "# PakoCoin" 
-"# PakoCoin" 
-"# PakoCoin" 
-"PakoCoin �p�[�q�R�C���@" 
+"PakoCoin ƒp[ŽqƒRƒCƒ“@" 
